@@ -5,7 +5,7 @@ function App() {
   <div className='grid min-h-screen bg-blue-100 items-center '>
     <section className='flex flex-col h-min sm:w-auto max-w-fit   bg-white p-1 mx-auto my-0 rounded-2xl  '>
       <div className='grid justify-center p-2'> 
-      <img src='./image-qr-code.png' className=' w-60 rounded-xl' />
+      <img src='./image-qr-code.png' alt='Qr code' className=' w-60 rounded-xl' />
       </div>
       
       <div className='w-60 p-1 mx-2 my-3 box-content text-center'> 
